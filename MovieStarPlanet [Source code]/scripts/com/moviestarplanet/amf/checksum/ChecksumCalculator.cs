@@ -1,12 +1,13 @@
 ﻿using com.moviestarplanet.amf.valueobjects;
+
 using FluorineFx.AMF3;
+
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace com.moviestarplanet.amf.checksum
 {
